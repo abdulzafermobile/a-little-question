@@ -58,3 +58,4 @@ After a minute your site is live at `https://<your-username>.github.io/<repo-nam
 | Photo doesn't show | Check the path in `imageUrl` matches the file exactly (including `.jpg` vs `.jpeg`) |
 | 404 on the Pages URL | Wait 1–2 minutes after enabling Pages; confirm `index.html` is in the repo root |
 | Old version still showing | Hard refresh (Ctrl+Shift+R / Cmd+Shift+R) |
+# a-little-question
